@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Hello%20world&textBg=false&descAlignY=100)
 
-<h3 align="center">A passionate developer from korea</h3>
+<h3 align="center">Hi, passionate developer from korea</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
